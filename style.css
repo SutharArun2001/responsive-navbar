@@ -3,12 +3,10 @@ html,body{
     padding: 0;
     font-family: sans-serif;
 }
-
 nav{
     width: 100%;
     background-color: rgb(45, 22, 150);
 }
-
 ul{ 
     padding: 0;
     margin: 0 auto;
